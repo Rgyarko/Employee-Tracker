@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee tracker collects data  and improves operational efficiency . using Node and MySQL",
+  "main": "Sever.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rgyarko/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rgyarko/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Rgyarko/Employee-Tracker#readme"
+}

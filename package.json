@@ -2,9 +2,9 @@
   "name": "employee-tracker",
   "version": "1.0.0",
   "description": "Employee tracker collects data  and improves operational efficiency . using Node and MySQL",
-  "main": "Server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": ""
   },
   "repository": {
     "type": "git",

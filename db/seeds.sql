@@ -26,4 +26,3 @@ VALUES
 ('Tyler', 'Moore', 6, null),
 ('Ana', 'Sanchez', 5, 5),
 ('Lewis', 'Allen', 7, null),
-('Katherine', 'Green'),

@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Rgyarko/Employee-Tracker#readme",
   "dependencies": {
     "inquirer": "^9.2.17",
-    "mysql2": "^3.9.4"
+    "modules": "^0.4.0",
+    "mysql2": "^3.9.4",
+    "node": "^18.20.2"
   }
 }
